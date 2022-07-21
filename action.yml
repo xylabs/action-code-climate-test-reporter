@@ -1,5 +1,9 @@
 name: "CodeClimate Code Coverage Test Reporter"
+author: XYLabs
 description: "GitHub action for publishing code coverage results to CodeClimate"
+branding:
+  icon: 'code'
+  color: 'red'
 inputs:
   subcommand:
     description: "The cc-test-report subcommand (with flags/arguments) to execute"
