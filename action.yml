@@ -3,7 +3,7 @@ author: XYLabs
 description: "GitHub action for publishing code coverage results to CodeClimate"
 branding:
   icon: 'code'
-  color: 'red'
+  color: 'blue'
 inputs:
   subcommand:
     description: "The cc-test-report subcommand (with flags/arguments) to execute"
