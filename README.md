@@ -43,6 +43,7 @@ Uploading code coverage:
 ## Maintainers
 
 -   [Arie Trouw](https://github.com/arietrouw) (<https://arietrouw.com>)
+-   [Joel Carter](https://github.com/joelbcarter) (<https://joelbcarter.com>)
 
 ## License
 
