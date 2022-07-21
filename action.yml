@@ -10,6 +10,7 @@ inputs:
     required: true
     default: "help"
     # TODO: Limit choices to known subcommands and pass args separately
+    # https://github.blog/changelog/2021-11-10-github-actions-input-types-for-manual-workflows/
     # https://docs.codeclimate.com/docs/configuring-test-coverage#list-of-subcommands
     # type: choice
     # options:
